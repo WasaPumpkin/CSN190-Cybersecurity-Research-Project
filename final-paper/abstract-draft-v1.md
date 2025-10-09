@@ -1,0 +1,43 @@
+# Andrey Carvajal  
+**EMPLID:** 24521104  
+**Professor:** Edwin Reed-Sanchez  
+**Course:** CSN-190 – Module 4 Abstract Draft with Implementation Focus  
+**Date:** 12 October, 2025  
+
+---
+
+## AI-Powered Phishing Detection System
+
+### Abstract
+Phishing attacks represent the most common cyberattack vector, with over 90% of data breaches beginning with a phishing email, yet traditional rule-based detection systems struggle to identify sophisticated attacks and generate high false-positive rates that burden security teams. Current detection methods fail to adapt to evolving phishing techniques that employ advanced social engineering and domain spoofing tactics. This project develops and evaluates a machine learning-based phishing detection system that combines natural language processing and URL feature analysis to classify emails with high accuracy in real-time. The system will be implemented using Python with scikit-learn and NLTK libraries, trained on publicly available datasets containing legitimate and phishing emails from Kaggle and UCI repositories, and tested through multiple classification algorithms including Naive Bayes, Random Forest, and Support Vector Machines. Performance will be evaluated using precision, recall, and F1-score metrics, with comparative analysis identifying the optimal model for deployment. A web-based interface will be developed using Flask or Streamlit to demonstrate real-time classification capabilities in a simulated environment. This research aims to achieve detection accuracy exceeding 85% while minimizing false positives, contributing a practical, deployable tool that demonstrates the effectiveness of AI-driven threat detection for improving organizational email security posture and protecting users from phishing attacks.
+
+---
+
+### Self-Evaluation
+
+**Five Components Included:**
+- **Background/Context:** Opens with statistics showing phishing as the leading cyberattack vector and the limitations of current rule-based systems.  
+- **Problem Statement:** Identifies the specific gap—traditional systems failing to adapt to evolving phishing techniques with high false-positive rates.  
+- **Purpose/Objectives:** Clearly states the goal to develop and evaluate an ML-based detection system combining NLP and URL analysis.  
+- **Methods/Approach:** Specifies Python, scikit-learn, NLTK, datasets from Kaggle/UCI, three algorithms (Naive Bayes, Random Forest, SVM), evaluation metrics, and web interface using Flask/Streamlit.  
+- **Expected Results/Contribution:** States the 85% accuracy target and practical contribution as a deployable AI-driven security tool.  
+
+---
+
+**What Makes This Abstract Specific and Clear:**
+- Concrete statistics (90% of data breaches) establish urgency.  
+- Named specific technologies (Python, scikit-learn, NLTK, Flask/Streamlit).  
+- Identified exact algorithms to be compared (Naive Bayes, Random Forest, SVM).  
+- Stated measurable success criteria (>85% accuracy).  
+- Used active voice throughout (“This project develops,” “The system will be implemented”).  
+- Included specific evaluation metrics (precision, recall, F1-score).  
+
+---
+
+**Challenges Faced:**
+The primary challenge was balancing completeness with the 250-word limit. I initially included too many technical details about preprocessing and feature engineering that, while important, didn't fit within the constraint. I also struggled with avoiding vague language—my first draft used phrases like “various machine learning techniques” which I replaced with specific algorithm names. Finally, maintaining active voice while describing future work required careful attention to verb tense.
+
+---
+
+**Alignment with Feasibility Analysis (4.1):**
+This abstract directly reflects my realistic target from the three-tier plan: training a high-accuracy model (>85%) and integrating it into a basic web application. It acknowledges the technical skills I rated at 3.5/5 by focusing on accessible tools (scikit-learn, publicly available datasets) rather than overpromising AWS deployment. The methods section aligns with my identified learning goals (NLP, model evaluation, web deployment) and leverages the resources I confirmed were available (Kaggle datasets, open-source tools, Google Colab). The hybrid approach combining model development with practical web interface deployment matches my project-based focus while maintaining the research rigor of comparative algorithm evaluation.

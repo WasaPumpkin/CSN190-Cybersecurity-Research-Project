@@ -5,7 +5,7 @@
 
 ## Repository Structure
 
-![GitHub Repository Screenshot](research-notes/images/github10.PNG)
+![Screenshot](https://raw.githubusercontent.com/WasaPumpkin/CSN190-Cybersecurity-Research-Project/main/research-notes/images/github10.PNG)
 
 ## About Me
 

@@ -5,7 +5,7 @@
 
 ## Repository Structure
 
-![GitHub Repository Overview](images/github10.png)
+![GitHub Repository Screenshot](research-notes/images/github10.PNG)
 
 ## About Me
 

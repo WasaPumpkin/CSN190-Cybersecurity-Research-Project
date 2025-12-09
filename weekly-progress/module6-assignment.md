@@ -87,3 +87,74 @@ pip install -r requirements.txt
 
 ### Test Case 1: Phishing Email
 **Input:**
+**Result:** `Prediction: Phishing` ✅
+
+**Analysis:** Model correctly identified urgency language, threats, and suspicious URL.
+
+---
+
+### Test Case 2: Legitimate Email
+**Input:**
+**Result:** `Prediction: Legitimate` ✅
+
+**Analysis:** Model recognized natural conversational tone and absence of threats.
+
+---
+
+## What I Learned
+
+### Technical Skills
+- Python virtual environment management
+- Git repository cloning and navigation
+- Dependency installation with pip
+- Streamlit web application deployment
+- Systematic troubleshooting approach
+
+### ML/Security Concepts
+- How NLP preprocessing works (tokenization, stopword removal)
+- Random Forest classification in practice
+- Real-time threat detection systems
+- Trade-offs between false positives and false negatives
+
+### Problem-Solving Skills
+- Using AI tools (GitHub Copilot) effectively for debugging
+- Reading error messages carefully for clues
+- Verifying assumptions (current directory, file locations)
+- Persistent troubleshooting when issues arise
+
+---
+
+## How AI Agent Helped
+
+**GitHub Copilot Assistance:**
+- Diagnosed directory navigation error immediately when asked: "Why can't pip find requirements.txt?"
+- Explained PowerShell execution policy restrictions
+- Suggested alternative terminal options
+- Provided context for error messages
+
+**Impact:** Saved approximately 15-20 minutes of frustration by providing targeted solutions exactly when needed.
+
+---
+
+## Documentation Created
+
+✅ **Module6-setup-log.md** - Detailed deployment documentation  
+✅ **Screenshots** - Application interface, terminal outputs, successful prediction  
+✅ **Setup Guide** - Step-by-step tutorial for others to replicate
+
+---
+
+## Connection to Final Project
+
+This deployment experience:
+- Validated my topic choice (phishing detection is achievable)
+- Provided working reference implementation
+- Identified ML concepts I need to understand deeper
+- Gave hands-on experience with tools I'll use (scikit-learn, Streamlit)
+- Built confidence that I can deploy ML security systems
+
+---
+
+**Status:** Completed  
+**Application Status:** Successfully deployed and tested  
+**Submitted:** November 9, 2025

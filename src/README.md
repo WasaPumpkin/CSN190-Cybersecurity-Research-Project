@@ -1,5 +1,10 @@
 # Source Code Directory
 
+**Author:** Andrey Carvajal  
+**Course:** CSN-190  
+**Last Updated:** November 9, 2025
+# Source Code Directory
+
 This folder contains the deployed AI-Powered Phishing Detection System and any custom code developed during the project.
 
 ## Contents

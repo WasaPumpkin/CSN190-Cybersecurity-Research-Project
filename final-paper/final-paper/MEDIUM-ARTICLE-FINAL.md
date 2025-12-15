@@ -14,9 +14,9 @@
 *Course: CSN-190 with Professor Edwin Reed-Sanchez*  
 *Date: December 2025*
 
-**🔗 Full Project Repository:** [GitHub.com/YourUsername/YourRepo](https://github.com/your-username/your-repo)  
+
 **📧 Contact:** your.email@example.com  
-**💼 LinkedIn:** [Your LinkedIn Profile]
+
 
 ---
 
@@ -312,10 +312,7 @@ If you're thinking "I could never do that," you absolutely can. Start with one g
 
 ## Resources and Links
 
-### 🔗 My Work
-**GitHub Repository (Complete Project):** [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)  
-**LinkedIn:** [Your LinkedIn]  
-**Email:** your.email@example.com
+
 
 ### 🛠️ Software and Tools
 **AI-Powered Phishing Detection System:**  

@@ -344,4 +344,4 @@ https://blog.cloudflare.com/how-cloudflare-is-using-automation-to-tackle-phishin
 **About the Author:**  
 Andrey Carvajal is a cybersecurity student at Bronx Community College, focusing on AI-enhanced threat detection and security automation. This project was completed as part of CSN-190 under Professor Edwin Reed-Sanchez.
 
-**Connect:** [LinkedIn] | [GitHub] | [Email]
+
